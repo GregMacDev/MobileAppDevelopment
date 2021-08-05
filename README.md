@@ -2,7 +2,7 @@
 
 This app was developed as an SNHU class project for CS 260 - Mobile Architecture and Programming
 
-[My image](username.github.com/repository/img/image.jpg)
+![My image](img/Inventory%20Login%20Screen.png)
 
 The requirements for this inventory app were to create an inventory app that utilized a SQLite database for storing login data and inventory item data. The app required a login screen to allow a user to login to the app before accessing the inventory tracker. The main inventory tracker screen needed to be setup in a grid-like structure to display all the items from the database. The typical functions of interacting with the database were required. There needed to be a function to add or remove items, as needed, from the inventory as well as a mechanism allowing the user to alter the number of each item as the stock of the warehouse changed. The third screen used for this app, a settings screen, met the final requirement of allowing a user to turn on and off notifications, and subsequently permissions, for the app to send a message to the user when an item has reached a critically low inventory level, in this case < 5 on hand.
 
