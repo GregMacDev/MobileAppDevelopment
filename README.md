@@ -2,7 +2,7 @@
 
 This app was developed as an SNHU class project for CS 260 - Mobile Architecture and Programming
 
-<img src="https://github.com/GregMacDev/MobileAppDevelopment/blob/main/img/Inventory%20Login%20Screen.png" width=200 height=400>
+<img src="https://github.com/GregMacDev/MobileAppDevelopment/blob/main/img/Inventory%20Login%20Screen.png" width=175 height=400>
 <img src="https://github.com/GregMacDev/MobileAppDevelopment/blob/main/img/Inventory%20Login%20Screen.png" width=200 height=400>
 <img src="https://github.com/GregMacDev/MobileAppDevelopment/blob/main/img/Inventory%20Login%20Screen.png" width=200 height=400>
 
