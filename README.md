@@ -1,4 +1,4 @@
-# MobileAppDevelopment
+# Android Inventory App
 
 This app was developed as an SNHU class project for CS 260 - Mobile Architecture and Programming
 
